@@ -1,8 +1,4 @@
-# Web-Scraping
-Contains Web scraping codes
-
-
-# Web-Scraping
+# Web Scraping
 
 Learn the basic of Web Scraping 
 
